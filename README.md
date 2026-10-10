@@ -52,6 +52,5 @@ To compile this code in the Arduino IDE, ensure you have the **esp32** board def
 
 *This project is open-source. You are free to use, modify, and distribute this software in your own projects. Please retain the author attribution in derivative works.*
 
-<img width="403" height="302" alt="IMG_1188" src="https://github.com/user-attachments/assets/4f9b4e83-4f38-4cd1-9948-93554e62f848" />
 <img width="403" height="302" alt="IMG_1189" src="https://github.com/user-attachments/assets/7b48eba4-ad5b-4259-8439-db17e119ca00" />
-
+<img width="403" height="302" alt="IMG_1188" src="https://github.com/user-attachments/assets/4f9b4e83-4f38-4cd1-9948-93554e62f848" />
