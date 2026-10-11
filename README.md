@@ -21,7 +21,9 @@ The application utilizes the physical buttons on the M5Stack Core enclosure:
 * **Button A (Left):** Step down to the next lowest baud rate.
 * **Button C (Right):** Step up to the next highest baud rate.
 
-The screen actively displays the target hardware pin, the currently selected baud rate, and a blinking pulse indicator that flashes red when a packet leaves the TX pin.
+The screen actively displays the target hardware pin, the currently selected baud rate, and a blinking pulse indicator that flashes red when a packet leaves the TX pin. 
+
+The serial data is coming out as 8N1 (8 data bits, No parity, 1 stop bit). The ESP32 core defaults to the SERIAL_8N1 standard. This is the universal default for almost all microcontroller UART communications.
 
 ---
 
